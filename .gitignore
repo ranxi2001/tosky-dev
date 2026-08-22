@@ -1,5 +1,5 @@
 node_modules/
 .wrangler/
+dist/
 preview-*.png
 .DS_Store
-

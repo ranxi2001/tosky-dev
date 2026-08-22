@@ -17,8 +17,7 @@ Then open `http://localhost:4173`.
 The production site is deployed on Cloudflare Pages:
 
 ```bash
-npx wrangler pages deploy . --project-name tosky-dev
+npx wrangler pages deploy dist --project-name tosky-dev
 ```
 
 Preview screenshots, Git metadata, and local tooling files are excluded from source control and should not be uploaded as site assets.
-
