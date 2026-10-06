@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">Markleaf — markdown leaf</title>
+  <desc id="desc">A dark green rounded square with a warm paper leaf and an M shaped markdown mark.</desc>
+  <rect width="1024" height="1024" fill="#233C31"/>
+  <!-- folded reading page shaped as a leaf -->
+  <path d="M263 236C389 183 563 210 701 350C779 429 795 536 749 639C705 736 610 796 487 800C369 804 278 746 240 652C201 555 221 425 263 236Z" fill="#F6F5F0"/>
+  <path d="M263 236C365 277 457 349 523 449C585 543 613 653 593 763C668 740 727 697 749 639C795 536 779 429 701 350C563 210 389 183 263 236Z" fill="#A9BE91"/>
+  <!-- markdown M / page lines: a distinctive reading-and-writing cue -->
+  <path d="M326 604V454L408 544L490 454V604" fill="none" stroke="#315D47" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M326 664H578" fill="none" stroke="#315D47" stroke-width="32" stroke-linecap="round"/>
+  <!-- small leaf vein -->
+  <path d="M492 350C520 411 550 469 593 532" fill="none" stroke="#315D47" stroke-width="18" stroke-linecap="round" opacity=".82"/>
+</svg>
